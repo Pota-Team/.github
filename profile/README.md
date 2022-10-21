@@ -6,5 +6,5 @@ Our members:
 <ul>
   <li><a href="https://www.github.com/andrearanica">Andrea Ranica</a></li>
   <li><a href="https://www.github.com/OlT1a">Mattia Rocchi</a>: he doesn't know how to use threads and he likes museums</li>
-  <li><a href="https://www.github.com/Jiplusplus">JiPlusPlus: </a></li>
+  <li><a href="https://www.github.com/Jiplusplus">JiPlusPlus</a>: a guy that always asks for homework</li>
 </ul> 
